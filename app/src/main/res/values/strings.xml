@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GemingApps</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="hello_world">Hello World</string>
+</resources>

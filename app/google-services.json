@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "3204022550",
+    "project_id": "geming-db2ee",
+    "storage_bucket": "geming-db2ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3204022550:android:d484065fdfb25b76915037",
+        "android_client_info": {
+          "package_name": "com.nyautech.gemingapps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "3204022550-vl6urnd53djhmiiq75s4gr4krmuonhpo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nyautech.gemingapps",
+            "certificate_hash": "e40da7b44e54c69d2af586b2a79b3660fe8e257b"
+          }
+        },
+        {
+          "client_id": "3204022550-d9hru3gf0hp7a7bjplrtgo8lbl20eu9u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxsc2o5OieqT6WIyET9OzKp0YaXpEKEZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "3204022550-d9hru3gf0hp7a7bjplrtgo8lbl20eu9u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
